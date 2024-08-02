@@ -13,8 +13,6 @@ data['개월령'] = data['개월령'].apply(lambda x: str(x)+' 개월')
 data['육량등급'] = data['육량등급'].apply(lambda x: str(x)+' 등급')
 data['BCS'] = data['BCS'].apply(lambda x: str(x)+' 등급')
 
-# -------------------- ▼ 필요 함수 생성 코딩 Start ▼ --------------------
-
 # 성장 및 사육 단계에 따른 목표 체중
 def feed_a(weight, month, kind): # weight:무게, month:개월, kind:품종(비육우, 번식우)
     mon = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
