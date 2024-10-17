@@ -40,6 +40,7 @@
 <img src="https://github.com/user-attachments/assets/672b7438-f7c6-49bc-8a6e-9e68b44a5815">
 <img src="https://github.com/user-attachments/assets/9d94da49-7f67-492e-8ce1-74d069e7f506">
 <br>
-## 프로젝트 성과 <br>
-<img src="https://github.com/user-attachments/assets/67d76f8b-f12c-494e-89a3-4a619ab38dbf" width="300" height="300"> <br>
+## 프로젝트 성과
 🏅 우수상 <br>
+<img src="https://github.com/user-attachments/assets/67d76f8b-f12c-494e-89a3-4a619ab38dbf" width="300" height="300"> <br>
+
